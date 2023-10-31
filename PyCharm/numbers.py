@@ -1,0 +1,6 @@
+b = int(input())
+t = int(input())
+s = int(input())
+m = int(input())
+print(b,t,s,m)
+print((b+t)/(s+m))

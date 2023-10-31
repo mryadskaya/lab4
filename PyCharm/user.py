@@ -1,0 +1,6 @@
+B = input("What is your name? ")
+T = input("How old are you? ")
+S = input("Where are you live? ")
+print("This is ", B)
+print("It is ", T)
+print("(S)he live in ", S)
